@@ -2,6 +2,8 @@
 
 Esse projeto tem o intuito de organizar os games que eu ando jogando ultimamente, no intuito de me permitir adiconar screenshots das minhas plays e fazer reviews deles assim que eu os finalizo. Por enquanto só possui a tela de propriedades do jogo, onde será feita a mágica.
 
+Obs: Isso eh um projeto de estudo e estou tentando replicar a interface da Dashboard Aurora, presente no sistema do Xbox 360.
+
 ---
 
 ## Demonstração
