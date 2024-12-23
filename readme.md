@@ -40,22 +40,24 @@ Antes de rodar o projeto, você precisará de:
 3. Abra o index.html em seu navegador de preferência:
    ```bash
    open index.html  # No macOS
-  start index.html  # No Windows
-  xdg-open index.html  # No Linux
+   start index.html  # No Windows
+   xdg-open index.html  # No Linux
 
 ## Estrutura do projeto
 
 ### O projeto contém os seguintes arquivos e pastas
 
-/html
-│
-├── index.html           # Arquivo principal HTML
-├── index.css            # Estilos CSS para a página
-├── Assets/              # Pasta com as imagens do projeto
-│   ├── image.png        # Imagem do fundo
-│   ├── need-for-speed-banner.png # Banner do projeto
-│   └── screenshot.png   # Screenshot para o README
-└── README.md            # Arquivo de documentação
+   ```bash
+   /html
+   │
+   ├── index.html           # Arquivo principal HTML
+   ├── index.css            # Estilos CSS para a página
+   ├── Assets/              # Pasta com as imagens do projeto
+   │   ├── image.png        # Imagem do fundo
+   │   ├── need-for-speed-banner.png # Banner do projeto
+   │   └── screenshot.png   # Screenshot para o README
+   └── README.md            # Arquivo de documentação
+   ```
 
 ### Como adicionar imagens no projeto
 
