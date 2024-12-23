@@ -73,7 +73,7 @@ Exemplo:
 Exemplo referência CSS:
    ```bash
    .need-for-speed {
-  background: url('imagens/image.png') no-repeat center center;
+  background: url('Assets/image.png') no-repeat center center;
   background-size: cover;
   }
 ```
